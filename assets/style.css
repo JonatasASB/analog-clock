@@ -60,7 +60,8 @@ h1 {
     transform: rotate(0deg);
     border-radius: 10px;
     position: absolute;
-    margin-top: -1px
+    margin-top: -1px;
+    transition: all ease .3s;
 }
 
 .p_s {

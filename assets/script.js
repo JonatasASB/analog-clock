@@ -30,5 +30,7 @@ function upDateClock() {
 
 //Intervalo para atualizar o relogio
 setInterval(upDateClock, 1000)
+
+
 //Chamando a função
 upDateClock();
